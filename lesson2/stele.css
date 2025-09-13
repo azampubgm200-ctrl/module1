@@ -1,0 +1,27 @@
+.black{
+    background-color: black;
+    color: white;
+    height: 500px;
+    width: 1000px;
+    margin: 20px;
+    margin: 0 auto;
+    border: 10px solid red;
+}
+
+.green{
+    background-color: rgb(40, 250, 40);
+    padding: 30px;
+    margin: 30px;
+}
+.viewport{
+    text-align: center;
+    background-color: #1FE8B7;
+
+}
+
+body{
+    background-color: brown;
+}
+
+
+
